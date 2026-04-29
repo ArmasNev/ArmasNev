@@ -1,4 +1,5 @@
 Hi, I'm Armas! 👋
+
 Technical Specialist transitioning to Software Engineering
 I am a Software Development student with a 10-year background in technical maintenance.
 
