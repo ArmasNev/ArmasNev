@@ -26,9 +26,7 @@ I am building a strong foundation in automation and containerization to ensure c
   * Took ownership of the **Docker** containerization and **Jenkins** pipeline.
   * Ensured the application was modular and ready for Continuous Integration.
 
----
-
-## 3. Practical Problem Solving & Growth
+### 3. Practical Problem Solving & Growth
 Coming from 10 years in technical maintenance, I don't expect things to work perfectly the first time. I’ve learned that the best way to build a reliable system is to **constantly question the logic** and look for where it might break. 
 
 I value "Continuous Improvement" over perfection—always looking for more efficient ways to solve a problem for my team.
